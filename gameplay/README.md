@@ -85,6 +85,12 @@ Enable Hotkeys to perform various actions ([more info](https://github.com/nyamu-
 
 ---
 
+## [Linkvii's Little Tweeks](https://github.com/linkviii/amqTweek/blob/master/viii_amq.js)
+
+Some random quality of life improvement ([more info](https://github.com/linkviii/amqTweek#amqtweek)).
+
+---
+
 ## [Nyamu's Mouse Wheel Volume Controller](https://github.com/nyamu-amq/amq_scripts/blob/master/amqMousewheelVolumeControl.user.js)
 
 you can adjust volume with mouse wheel when mouse cursor is over video area or avatar area
