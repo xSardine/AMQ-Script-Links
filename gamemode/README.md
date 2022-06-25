@@ -22,15 +22,15 @@ The time taken to hit the buzzer, as well as whether or not your answer was corr
 
 ---
 
-## [Joseph's Speedrun Tool](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqSpeedrun.user.js)
+## [xSardine's 1s audio](https://github.com/xSardine/AMQ-Stuff/raw/main/1SecondAudio/1Second_Audio.user.js)
 
-If you smh want to speedrun AMQ, this will help you by tracking guess times for each song, including total and average times. ([more info](https://github.com/TheJoseph98/AMQ-Scripts#speedrun-amqspeedrunuserjs))
+Mute your audio after 1sec. Ask other people in your lobby to also add the script !
+([more info](https://github.com/xSardine/AMQ-Stuff/blob/main/1SecondAudio/README.md#1-second-audio))
 
 ---
 
-## [xSardine's 1s audio]()
+## [Joseph's Speedrun Tool](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqSpeedrun.user.js)
 
-Mute your audio after 1sec. Ask other people in your lobby to also add the script !
-([more info]())
+If you smh want to speedrun AMQ, this will help you by tracking guess times for each song, including total and average times. ([more info](https://github.com/TheJoseph98/AMQ-Scripts#speedrun-amqspeedrunuserjs))
 
 ---

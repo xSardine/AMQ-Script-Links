@@ -30,6 +30,12 @@ faster and better autocomplete. Test it to see if it fit your taste!
 
 ---
 
+## [Klem's Expand Radio](https://github.com/Klemkinis/AMQ-Expand-Library-Radio/raw/main/Expand%20Library%20Radio.user.js)
+
+Add a radio to AMQ that play anything that is in your expand library.
+
+---
+
 ## [Nyamu's Auto Ready Script](https://github.com/nyamu-amq/amq_scripts/blob/master/amqAutoReady.user.js)
 
 It changes your state to ready automatically when you are in lobby.
