@@ -58,7 +58,7 @@ Let's you send a link to your friends to join a room if they also have this scri
 
 ---
 
-## [Zol's Sound Effects](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqSoundEffects.user.js)
+## [Zol|Nyamu|Ensorcell's Sound Effects](https://github.com/Zolhungaj/amq-scripts/raw/master/notificationSounds.user.js)
 
 Add audio cues for various AMQ events such as DMs received.
 

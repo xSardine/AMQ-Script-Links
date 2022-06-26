@@ -14,7 +14,7 @@ Please make sure to read every pin #database-fixes before you try adding anythin
 
 ---
 
-## [Zol's AMQ Replay](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqReplay.user.js)
+## [Juvian's AMQ Replay](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqReplay.user.js)
 
 Lets you record game events and then replay them
 

@@ -6,7 +6,7 @@ Click on the title of each script to go to download page.
 
 ---
 
-## [Zol's No Dropdown](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqNoDropdown.user.js)
+## [Juvian's No Dropdown](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqNoDropdown.user.js)
 
 Disables dropdown for that extra taste of rage. Use ctrl + b to enable/disable dropdown. Useful when you join "No DD" lobbies !
 
