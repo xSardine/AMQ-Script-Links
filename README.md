@@ -16,7 +16,8 @@ You need two browser extensions that will let you use most of these scripts:
 - [tampermonkey](https://www.tampermonkey.net/)
 - [stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) (this link is for chromium)
 
-Some script will get automatically added to tampermonkey, other will need you to add them manually. To do so, left click on the tampermonkey icon, top right of your browser, and select `create a new script`. Copy and paste the script content there.
+Some script will get automatically added to tampermonkey, other will need you to add them manually. To do so, left click on the tampermonkey icon, top right of your browser, and select `create a new script`. Copy and paste the script content there. Follow the documentation of each script for more complexe installation.
+
 The tab must be refresh for new script to be accounted.
 
 You can also browse the repositories of the main contributors in the community:
