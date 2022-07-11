@@ -132,6 +132,6 @@ A tool that counts how much XP, notes and tickets you gained and calculates how 
 
 ## [4Lajf's Answer Time Diference](https://github.com/4Lajf/amq-scripts/raw/main/amqAnswerTimeDiference.user.js)
 
-Makes you able to see the diference in time to the fastest player. Also includes some togglable stats. ([more info](https://github.com/4Lajf/amq-scripts))
+Makes you able to see the diference in time to the fastest player. Also includes some stats at the end of the round/game. Everything is togglable. ([more info](https://github.com/4Lajf/amq-scripts))
 
 ---
