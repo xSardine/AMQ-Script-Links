@@ -1,6 +1,6 @@
 # AMQ-Script-Links
 
-This repository compile links to install scripts for AMQ. These scripts are all checked by mods, and are allowed to be used freely on AMQ as long as you don't do any heavy edits to them that would turn them into borderline cheat.
+This repository compile links to install scripts for AMQ. These scripts should all be checked by mods, and allowed to be used freely on AMQ (as long as no heavy edits is done to them).
 
 They are classified in categories:
 
