@@ -69,11 +69,20 @@ Show notification when your friend is online. ([more info](https://github.com/ny
 
 ---
 
-## [xSardine's Song Count / Guess Rate](https://github.com/xSardine/AMQ-Stuff/tree/main/songCountGuessRate)
+## [xSardine & Minigamer42's Song Count / Guess Rate](https://github.com/xSardine/AMQ-Stuff/tree/main/songCountGuessRate)
 
 It will display the number of time a song have appeared and your guess rate on it in the song info box.
 
-Only if you have the will to set up everything for it to work, that is.
+There are two versions of this script, each with it's advantages and inconvenient, make sure to read the description in the installation link to make your choice.
+
  ([more info](https://github.com/xSardine/AMQ-Stuff/tree/main/songCountGuessRate#song-count--guess-rate))
+
+---
+
+## [Tutti's Shortest Possible Answer](https://github.com/tutti-amq/amq-scripts/raw/main/animeShortcuts.user.js)
+
+This will display in the song info box, at the end of each song, shorthands that would be the less amount of key stroke while having the right answer first in the dropdown.
+
+([more info](https://github.com/tutti-amq/amq-scripts#amq-scripts))
 
 ---

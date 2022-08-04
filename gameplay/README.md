@@ -4,7 +4,7 @@ scripts which changes how some aspect of the game works, or add new features to 
 
 **Click on the title of each script to go to download page.**
 
-# **Improve AMQ Functionalities**
+## **Improve AMQ Functionalities**
 
 These scripts will modify and improve how certain aspect of the game works.
 
@@ -47,7 +47,7 @@ A simple script that allows you to search the Expand Library by ANN ID in additi
 
 Lets you have the life saving feature of having emojis in your answers. ([more info](https://github.com/nyamu-amq/amq_scripts#amqemojianswerjs)).
 
-# **Add new functionalities**
+## **Add new functionalities**
 
 These scripts will add new functionalities to AMQ, such as hotkey to perform actions faster.
 

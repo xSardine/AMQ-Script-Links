@@ -2,7 +2,7 @@
 
 scripts which change the design/layout of AMQ, generally for aesthetic purposes.
 
-Click on the title of each script to go to download page.
+**Click on the title of each script to go to download page.**
 
 ---
 

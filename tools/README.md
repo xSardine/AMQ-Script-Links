@@ -2,7 +2,7 @@
 
 scripts that will not affect AMQ directly.
 
-Click on the title of each script to go to download page.
+**Click on the title of each script to go to download page.**
 
 ---
 
