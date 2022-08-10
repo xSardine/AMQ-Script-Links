@@ -40,7 +40,7 @@ Makes you able to see the original names of players.
 
 Everything that yoshi has coded to help him make a better stream set up.
 
-This include notably a whole rearrangement of the AMQ UI with more information displayed. [Here](https://www.twitch.tv/videos/1513946510) is one of his stream to show you how it looks like.
+This include notably a whole rearrangement of the AMQ UI with more information displayed. [Here](https://www.twitch.tv/blissfulyoshi/videos) are his VOD to show you how it looks like.
 
 ---
 
