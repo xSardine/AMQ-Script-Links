@@ -30,6 +30,12 @@ Shows ping together with online player count.
 
 ---
 
+## [swiftshrike's Answer result display in tab](https://github.com/Graywing13/amq-scripts/raw/main/showResultsInTitle.user.js)
+
+This will display the song that is currently playing and if you got it correctly or wrong in the tab title of your navigator (even when in another tab).
+
+---
+
 ## [Zol's Original Name Script](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqShowOriginalName.user.js)
 
 Makes you able to see the original names of players.
