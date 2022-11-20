@@ -6,11 +6,12 @@ A selection of script chosen by the community to be the most useful and importan
 
 ---
 
-## [Elodie's Userstyle](https://userstyles.world/style/1435/elodie-s-amq-script-v8-4-5)
+## [Elodie's Userstyle](https://userstyles.world/user/melodyelodie)
 
-With this script, you can change the look of your AMQ Game! It is also compatible with most of the popular scripts on AMQ that adds new visual features.
+With this script, you can change the look of your AMQ Game! It will let you customize most UI components.
+It is also compatible with most of the popular scripts on AMQ that adds new visual features.
 
-Youtube Guide Video: <https://www.youtube.com/watch?v=-pnMZ-qqm7A&t>
+Youtube Guide Video: <https://www.youtube.com/watch?v=JL85rOIb3FA>
 
 ---
 
