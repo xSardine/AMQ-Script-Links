@@ -1,21 +1,24 @@
 # **Tools**
 
-scripts that will not affect AMQ directly.
-
-**Click on the title of each script to go to download page.**
+Scripts that will not affect AMQ directly
 
 ---
 
-## [Zol's Encoding Tools](https://github.com/amq-script-project/AMQ-Scripts/tree/master/encoding)
+- ## <ins>Zol's Encoding Tools</ins>
 
-scripts which aid the process of encoding new content to be added to AMQ (Expand).
+A collection of scripts which aid the process of encoding new content to be added to AMQ (Expand).
 
-Please make sure to read every pin #database-fixes before you try adding anything
+Please make sure to read every pin #database-fixes before you try adding anything.
+
+[More Info](https://github.com/amq-script-project/AMQ-Scripts/tree/master/encoding)
 
 ---
 
-## [Juvian's AMQ Replay](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqReplay.user.js)
+- ## <ins>Juvian's AMQ Replay</ins>
 
-Lets you record game events and then replay them
+Lets you record game events and replay them.
+
+[Download](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqReplay.user.js) |
+[Source Code](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqReplay.user.js)
 
 ---
