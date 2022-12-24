@@ -6,9 +6,13 @@ add new visual features, new information that isn't available in vanilla AMQ
 
 ---
 
-## [Joseph's Song List UI](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqSongListUI.user.js)
+## [Joseph's Song List UI]()
 
-Adds a window which lists all of the songs that play during a quiz in real time (each song added during answer reveal phase). This window can be opened by pressing the "Song List" icon at the top right of the quiz screen or by pressing the Pause/Break key on the keyboard. ([more info](https://github.com/TheJoseph98/AMQ-Scripts#song-list-ui-amqsonglistuiuserjs))
+Adds a window which lists all of the songs that play during a quiz in real time (each song added during answer reveal phase). This window can be opened by pressing the "Song List" icon at the top right of the quiz screen or by pressing the Pause/Break key on the keyboard.
+
+<a href="https://github.com/TheJoseph98/AMQ-Scripts#song-list-ui-amqsonglistuiuserjs" target="_blank">More Info</a> |
+<a href="https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqSongListUI.user.js">Download</a> |
+<a href="https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqSongListUI.user.js" target="_blank">Source Code</a>
 
 ---
 
@@ -16,11 +20,29 @@ Adds a window which lists all of the songs that play during a quiz in real time 
 
 Counts how many times each person's list has appeared during a quiz. ([more info](https://github.com/TheJoseph98/AMQ-Scripts#rig-tracker-amqrigtrackeruserjs))
 
+<a href="" target="_blank">More Info</a> |
+<a href="">Download</a> |
+<a href="" target="_blank">Source Code</a>
+
 ---
 
 ## [Zol's Answer Time Display](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqPlayerAnswerTimeDisplay.user.js)
 
 Makes you able to see how quickly people answered.
+
+<a href="" target="_blank">More Info</a> |
+<a href="">Download</a> |
+<a href="" target="_blank">Source Code</a>
+
+---
+
+## [Miyuki's Favorite Friend]()
+
+Allow you to add favorite friends, which will be appear at the top of the friend list, and allow you to activate notification for when they log in/out. To add or remove a friend from Favorite you just need to click the gear button at the bottom right and then click the Favorite button.
+
+<a href="" target="_blank">More Info</a> |
+<a href="">Download</a> |
+<a href="" target="_blank">Source Code</a>
 
 ---
 
@@ -28,17 +50,29 @@ Makes you able to see how quickly people answered.
 
 Shows ping together with online player count.
 
+<a href="" target="_blank">More Info</a> |
+<a href="">Download</a> |
+<a href="" target="_blank">Source Code</a>
+
 ---
 
 ## [swiftshrike's Answer result display in tab](https://github.com/Graywing13/amq-scripts/raw/main/showResultsInTitle.user.js)
 
 This will display the song that is currently playing and if you got it correctly or wrong in the tab title of your navigator (even when in another tab).
 
+<a href="" target="_blank">More Info</a> |
+<a href="">Download</a> |
+<a href="" target="_blank">Source Code</a>
+
 ---
 
 ## [Zol's Original Name Script](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqShowOriginalName.user.js)
 
 Makes you able to see the original names of players.
+
+<a href="" target="_blank">More Info</a> |
+<a href="">Download</a> |
+<a href="" target="_blank">Source Code</a>
 
 ---
 
@@ -48,17 +82,29 @@ Everything that yoshi has coded to help him make a better stream set up.
 
 This include notably a whole rearrangement of the AMQ UI with more information displayed. [Here](https://www.twitch.tv/blissfulyoshi/videos) are his VOD to show you how it looks like.
 
+<a href="" target="_blank">More Info</a> |
+<a href="">Download</a> |
+<a href="" target="_blank">Source Code</a>
+
 ---
 
 ## [Zol's Avatar Count](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqAvatarCount.user.js)
 
 Shows the number of avatar you own in the avatar screen.
 
+<a href="" target="_blank">More Info</a> |
+<a href="">Download</a> |
+<a href="" target="_blank">Source Code</a>
+
 ---
 
 ## [Joseph's Chat Timestamp](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqChatTimestamps.user.js)
 
 Adds timestamps to messages (and system messages) in chat in HH:MM format, based on user's local system time. ([more info](https://github.com/TheJoseph98/AMQ-Scripts#chat-timestamps-amqchattimestampsuserjs))
+
+<a href="" target="_blank">More Info</a> |
+<a href="">Download</a> |
+<a href="" target="_blank">Source Code</a>
 
 ---
 
@@ -67,11 +113,19 @@ Adds timestamps to messages (and system messages) in chat in HH:MM format, based
 If you too hate people, this script will count how many people you have blocked.
  ([more info](https://github.com/Metakino/AMQ-MetakinoScript#blocked-players-counter))
 
+<a href="" target="_blank">More Info</a> |
+<a href="">Download</a> |
+<a href="" target="_blank">Source Code</a>
+
 ---
 
 ## [Nyamu's Friend Online Notifier](https://github.com/nyamu-amq/amq_scripts/raw/master/amqFriendOnlineNotifier.user.js)
 
 Show notification when your friend is online. ([more info](https://github.com/nyamu-amq/amq_scripts#amqfriendonlinenotifieruserjs)).
+
+<a href="" target="_blank">More Info</a> |
+<a href="">Download</a> |
+<a href="" target="_blank">Source Code</a>
 
 ---
 
@@ -83,6 +137,10 @@ There are two versions of this script, each with it's advantages and inconvenien
 
  ([more info](https://github.com/xSardine/AMQ-Stuff/tree/main/songCountGuessRate#song-count--guess-rate))
 
+<a href="" target="_blank">More Info</a> |
+<a href="">Download</a> |
+<a href="" target="_blank">Source Code</a>
+
 ---
 
 ## [Tutti's Shortest Possible Answer](https://github.com/tutti-amq/amq-scripts/raw/main/animeShortcuts.user.js)
@@ -90,5 +148,9 @@ There are two versions of this script, each with it's advantages and inconvenien
 This will display in the song info box, at the end of each song, shorthands that would be the less amount of key stroke while having the right answer first in the dropdown.
 
 ([more info](https://github.com/tutti-amq/amq-scripts#amq-scripts))
+
+<a href="" target="_blank">More Info</a> |
+<a href="">Download</a> |
+<a href="" target="_blank">Source Code</a>
 
 ---
