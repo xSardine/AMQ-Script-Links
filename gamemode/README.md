@@ -23,6 +23,25 @@ A song artist mode which allow you to answer the song name and the artist in add
 
 ---
 
+- ## <ins>Hachiman's Mute Audio Gamemode</ins>
+
+Mute your game automatically after a certain amount of time.
+For example let you play a game with 10 seconds guess time, but only 1s of audio.
+
+To start it and configure it, write in chat: `/muteconfig`
+
+- inputs:
+  - duration: duration for which you will have sound
+  - delay: sound start with this delay
+- options:
+  - random: sample starts in any second except last 4s
+  - on: turn on/off the script
+
+[Download](https://github.com/Hachiman215/AMQ-scripts/raw/main/amqMuteConfigUI.user.js) |
+[Source Code](https://github.com/Hachiman215/AMQ-scripts/blob/main/amqMuteConfigUI.user.js)
+
+---
+
 - ## <ins>Bob's Buzzer</ins>
 
 Mute yourself once you recognized the song, and then type the answer at your pace in the dropdown.
@@ -30,16 +49,6 @@ Mute yourself once you recognized the song, and then type the answer at your pac
 On answer results, it will display into the chat how fast you muted yourself to you and other people in the lobby !
 
 [Source Code](https://files.catbox.moe/lipeqk.js)
-
----
-
-- ## <ins>xSardine's 1s audio</ins>
-
-Automatically mute your audio after 1sec. Ask other people in your lobby to also add the script if you want everyone to play with you.
-
-[More Info](https://github.com/xSardine/AMQ-Stuff/blob/main/1SecondAudio/README.md#1-second-audio) |
-[Download](https://github.com/xSardine/AMQ-Stuff/raw/main/1SecondAudio/1Second_Audio.user.js) |
-[Source Code](https://github.com/xSardine/AMQ-Stuff/blob/main/1SecondAudio/1Second_Audio.user.js)
 
 ---
 

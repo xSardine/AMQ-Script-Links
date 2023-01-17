@@ -29,7 +29,7 @@ Adds a window which lists all of the songs that play during a quiz in real time 
 
 Add new features to chat and direct messages <https://i.imgur.com/FAT78Ep.png>.
 
-Make sure to update Elodie's script, and remove any scripts that have similar functionality to the ones included in this script (such as Miyuki's Image Load, Sardine Bigger DM & Timestamp, etc...).
+Make sure to update Elodie's script, and remove any scripts that have similar functionality to the ones included in this script (mainly Miyuki's chat scripts, which fused with this, and Sardine Bigger DM & Timestamp, etc...).
 
 Features:
 

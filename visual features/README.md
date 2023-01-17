@@ -18,7 +18,7 @@ Adds a window which lists all of the songs that play during a quiz in real time 
 
 Add new features to chat and direct messages <https://i.imgur.com/FAT78Ep.png>.
 
-Make sure to update Elodie's script, and remove any scripts that have similar functionality to the ones included in this script (such as Miyuki's Image Load, Sardine Bigger DM & Timestamp, etc...).
+Make sure to update Elodie's script, and remove any scripts that have similar functionality to the ones included in this script (mainly Miyuki's chat scripts, which fused with this, and Sardine Bigger DM & Timestamp, etc...).
 
 Features:
 
@@ -115,12 +115,13 @@ Makes you able to see the original names of players.
 
 ---
 
-- ## <ins>Zol's Avatar Count</ins>
+- ## <ins>Miyuki's Improved Skin Menu</ins>
 
 Shows the number of avatar you own in the avatar screen.
 
-[Download](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqAvatarCount.user.js) |
-[Source Code](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqAvatarCount.user.js)
+[More Info](https://github.com/Mxyuki/AMQ-Scripts#amq-skin-plus)
+[Download](https://github.com/Mxyuki/AMQ-Scripts/raw/main/amqSkinPlus.user.js) |
+[Source Code](https://github.com/Mxyuki/AMQ-Scripts/blob/main/amqSkinPlus.user.js)
 
 ---
 
