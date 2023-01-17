@@ -37,16 +37,7 @@ All my homies hates this popup.
 
 ---
 
-- ## <ins>xSardine's better DMs</ins>
-
-If you don't care about your XP bars and levels, these userscripts will let you have much bigger DMs in exchange of your XP bar to talk with your friends, as well as the timestamp at which the DMs have been sent.
-
-[More Info](https://github.com/xSardine/AMQ-Stuff/tree/main/BetterDms#better-dms) |
-[Source Code](https://github.com/xSardine/AMQ-Stuff/tree/main/BetterDms)
-
----
-
-- ## <ins>Mizuki's New Play Button</ins>
+- ## <ins>Miyuki's New Play Button</ins>
 
 Change the Play Button in the main menu by having directly the 3 options appearing (Solo/Multiplayer/Nexus). Saves you one click.
 

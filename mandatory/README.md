@@ -25,6 +25,28 @@ Adds a window which lists all of the songs that play during a quiz in real time 
 
 ---
 
+- ## <ins>kempanator's Improved Chat</ins>
+
+Add new features to chat and direct messages <https://i.imgur.com/FAT78Ep.png>.
+
+Make sure to update Elodie's script, and remove any scripts that have similar functionality to the ones included in this script (such as Miyuki's Image Load, Sardine Bigger DM & Timestamp, etc...).
+
+Features:
+
+- Adjustable DM width and height
+- Add color to usernames in dms and nexus
+- Add timestamps to chat, dms, and nexus
+- Move level, ticket, and note count to the right
+- Load images/audio/video directly in chat
+- Add a gif search window in chat using tenor
+- Drag & drop or copy & paste file into chat/dm to automatically upload to litterbox
+
+[More Info](https://github.com/kempanator/amq-scripts#amq-chat-plus) |
+[Download](https://github.com/kempanator/amq-scripts/raw/main/amqChatPlus.user.js) |
+[Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqChatPlus.user.js)
+
+---
+
 - ## <ins>Joseph's Rig Tracker<ins>
 
 Counts how many times each person's list has appeared during a quiz.
@@ -70,12 +92,3 @@ Allow you to add favorite friends, which will be appear at the top of the friend
 [More Info](https://github.com/Mxyuki/AMQ-Scripts#amq-favorite-friends) |
 [Download](https://github.com/Mxyuki/AMQ-Scripts/raw/main/amqFavoriteFriends.user.js) |
 [Source Code](https://github.com/Mxyuki/AMQ-Scripts/blob/main/amqFavoriteFriends.user.js)
-
----
-
-- ## <ins>Miyuki's Images in Chat</ins>
-
-Send in chat the images of link that end by .png/.jpeg/.jpg/.gif. The images can be removed by clicking on them.
-
-[Download](https://github.com/Mxyuki/AMQ-Scripts/raw/main/amqChatImage.user.js) |
-[Source Code](https://github.com/Mxyuki/AMQ-Scripts/blob/main/amqChatImage.user.js)

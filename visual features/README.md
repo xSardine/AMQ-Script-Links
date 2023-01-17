@@ -14,6 +14,28 @@ Adds a window which lists all of the songs that play during a quiz in real time 
 
 ---
 
+- ## <ins>kempanator's Improved Chat</ins>
+
+Add new features to chat and direct messages <https://i.imgur.com/FAT78Ep.png>.
+
+Make sure to update Elodie's script, and remove any scripts that have similar functionality to the ones included in this script (such as Miyuki's Image Load, Sardine Bigger DM & Timestamp, etc...).
+
+Features:
+
+- Adjustable DM width and height
+- Add color to usernames in dms and nexus
+- Add timestamps to chat, dms, and nexus
+- Move level, ticket, and note count to the right
+- Load images/audio/video directly in chat
+- Add a gif search window in chat using tenor
+- Drag & drop or copy & paste file into chat/dm to automatically upload to litterbox
+
+[More Info](https://github.com/kempanator/amq-scripts#amq-chat-plus) |
+[Download](https://github.com/kempanator/amq-scripts/raw/main/amqChatPlus.user.js) |
+[Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqChatPlus.user.js)
+
+---
+
 - ## <ins>Joseph's Rig Tracker<ins>
 
 Counts how many times each person's list has appeared during a quiz.
@@ -62,31 +84,34 @@ This will display in the tab title of your navigator the song that is currently 
 
 ---
 
+- ## <ins>Kempanator's New Nexus Game Mode UI</ins>
+
+Adds a user interface to new game mode in Nexus to keep track of guesses <https://i.imgur.com/q9GTFQr.png>
+
+[More Info](https://github.com/kempanator/amq-scripts#amq-new-game-mode-ui) |
+[Download](https://github.com/kempanator/amq-scripts/raw/main/amqNewGameModeUI.user.js) |
+[Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqNewGameModeUI.user.js)
+
+---
+
+- ## <ins>Kempanator's Show Room Players</ins>
+
+Mouse over the players bar on a room tile to show full player list. <https://i.imgur.com/jivcLDo.png>
+
+[More Info](https://github.com/kempanator/amq-scripts#amq-show-room-players) |
+[Download](https://github.com/kempanator/amq-scripts/raw/main/amqShowRoomPlayers.user.js) |
+[Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqShowRoomPlayers.user.js)
+
+<>
+
+---
+
 - ## <ins>Zol's Original Name Script</ins>
 
 Makes you able to see the original names of players.
 
 [Download](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqShowOriginalName.user.js) |
 [Source Code](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqShowOriginalName.user.js)
-
----
-
-- ## <ins>Miyuki's Images in Chat</ins>
-
-Send in chat the images of link that end by .png/.jpeg/.jpg/.gif. The images can be removed by clicking on them.
-
-[Download](https://github.com/Mxyuki/AMQ-Scripts/raw/main/amqChatImage.user.js) |
-[Source Code](https://github.com/Mxyuki/AMQ-Scripts/blob/main/amqChatImage.user.js)
-
----
-
-- ## <ins>blissfulyoshi's Stream Set Up</ins>
-
-Everything that yoshi has coded to help him make a better stream set up.
-
-This include notably a whole rearrangement of the AMQ UI with more information displayed. [Here](https://www.twitch.tv/blissfulyoshi/videos) are his VOD to show you how it looks like.
-
-[Source Code](https://github.com/blissfulyoshi/AMQ-UI-Rearranger)
 
 ---
 
@@ -148,3 +173,11 @@ This will display in the song info box, at the end of each song, shorthands that
 [Source Code](https://github.com/tutti-amq/amq-scripts/blob/main/animeShortcuts.user.js)
 
 ---
+
+- ## <ins>blissfulyoshi's Stream Set Up</ins>
+
+Everything that yoshi has coded to help him make a better stream set up.
+
+This include notably a whole rearrangement of the AMQ UI with more information displayed. [Here](https://www.twitch.tv/blissfulyoshi/videos) are his VOD to show you how it looks like.
+
+[Source Code](https://github.com/blissfulyoshi/AMQ-UI-Rearranger)
