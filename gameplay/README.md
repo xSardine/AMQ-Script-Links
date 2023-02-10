@@ -84,15 +84,6 @@ A counting tool which counts how many songs there are on any given difficulty. C
 
 ---
 
-- ## <ins>Klem's Expand Radio</ins>
-
-Add a radio to AMQ that loop through anything that is in your expand library.
-
-[Download](https://github.com/Klemkinis/AMQ-Expand-Library-Radio/raw/main/Expand%20Library%20Radio.user.js) |
-[Source Code](https://github.com/Klemkinis/AMQ-Expand-Library-Radio/blob/main/Expand%20Library%20Radio.user.js)
-
----
-
 - ## <ins>Nyamu's Auto Ready Script</ins>
 
 It changes your state to ready automatically when you are in lobby.
