@@ -84,25 +84,14 @@ A counting tool which counts how many songs there are on any given difficulty. C
 
 ---
 
-- ## <ins>Nyamu's Auto Ready Script</ins>
+- ## <ins>Kempanator Mega Command</ins>
 
-It changes your state to ready automatically when you are in lobby.
+A compilation of various commands to perform various actions.  
+It let you have a bunch of functionalities gathered in one script.  
+I invite you to check within the source code to see all the functionalities. It is documented at the beginning of the script.
 
-[More Info](https://github.com/nyamu-amq/amq_scripts#amqautoreadyuserjs) |
-[Download](https://github.com/nyamu-amq/amq_scripts/raw/master/amqAutoReady.user.js) |
-[Source Code](https://github.com/nyamu-amq/amq_scripts/blob/master/amqAutoReady.user.js)
-
----
-
-- ## <ins>Nyamu's Chat Command</ins>
-
-Lets you use commands in the AMQ chat to perform various actions. Especially useful to type `/v 0` whenever Aoi Shouta plays.
-
-If you would rather use them in a personal window instead of in the chat, here is an [UI version](https://github.com/xSardine/AMQ-Stuff/raw/main/NyamuCommandWindow/Nyamu_Command_Window.user.js) by xSardine. (might be outdated)
-
-[More Info](https://github.com/nyamu-amq/amq_scripts#amqchatcommandsuserjs) |
 [Download](https://github.com/nyamu-amq/amq_scripts/raw/master/amqChatCommands.user.js) |
-[Source Code](https://github.com/nyamu-amq/amq_scripts/blob/master/amqChatCommands.user.js)
+[Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqMegaCommands.user.js)
 
 ---
 
@@ -160,16 +149,6 @@ Add audio cues for various AMQ events such as DMs received.
 
 [Download](https://github.com/Zolhungaj/amq-scripts/raw/master/notificationSounds.user.js) |
 [Source Code](https://github.com/Zolhungaj/amq-scripts/blob/master/notificationSounds.user.js)
-
----
-
-- ## <ins>Joseph's Dice Roller</ins>
-
-Dice roller for general usage, type "/roll" in chat to output a random number from 1-100. If you want to be able to do so in a window instead of chat, here is the [UI version](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqDiceRollerUI.user.js).
-
-[More Info](https://github.com/TheJoseph98/AMQ-Scripts#dice-roller-amqdicerolleruserjs) |
-[Download](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqDiceRoller.user.js) |
-[Source Code](https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqDiceRoller.user.js)
 
 ---
 

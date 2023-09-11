@@ -4,17 +4,7 @@ Add new visual features, new information that isn't available in vanilla AMQ.
 
 ---
 
-- ## <ins>Joseph's Song List UI</ins>
-
-Adds a window which lists all of the songs that play during a quiz in real time (each song added during answer reveal phase). This window can be opened by pressing the "Song List" icon at the top right of the quiz screen or by pressing the Pause/Break key on the keyboard.
-
-[More Info](https://github.com/TheJoseph98/AMQ-Scripts#song-list-ui-amqsonglistuiuserjs) |
-[Download](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqSongListUI.user.js) |
-[Source Code](https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqSongListUI.user.js)
-
----
-
-- ## <ins>kempanator's Improved Chat</ins>
+- ## <ins>Kempanator's Improved Chat</ins>
 
 Add new features to chat and direct messages <https://i.imgur.com/FAT78Ep.png>.
 
@@ -84,6 +74,19 @@ This will display in the tab title of your navigator the song that is currently 
 
 ---
 
+- ## <ins>Kempanator's AnisongDB UI</ins>
+
+Features:
+
+- Add a window for anisongdb search results
+- Add anime and artist lookup buttons to song info container for quick search
+
+[More Info](https://github.com/kempanator/amq-scripts/raw/main/amqAnisongdbSearch.user.js) |
+[Download](https://github.com/kempanator/amq-scripts/raw/main/amqAnisongdbSearch.user.js) |
+[Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqAnisongdbSearch.user.js)
+
+---
+
 - ## <ins>Kempanator's New Nexus Game Mode UI</ins>
 
 Adds a user interface to new game mode in Nexus to keep track of guesses <https://i.imgur.com/q9GTFQr.png>
@@ -135,6 +138,21 @@ Adds timestamps to messages (and system messages) in chat in HH:MM format, based
 
 ---
 
+- ## <ins>Kempanator's Answer Stats</ins>
+
+Features:
+
+- Add a window with answer stats
+- Add a window to track average guess time for players' correct answers
+- Add a window to lookup all players' answers for the current game
+- Add a window to compare all answers between selected players
+
+[More Info](https://github.com/kempanator/amq-scripts/raw/main/amqAnswerStats.user.js) |
+[Download](https://github.com/kempanator/amq-scripts/raw/main/amqAnswerStats.user.js) |
+[Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqAnswerStats.user.js)
+
+---
+
 - ## <ins>Metakino's Blocked Player Counter</ins>
 
 If you too hate people, this script will count how many people you have blocked.
@@ -155,13 +173,12 @@ Show notification when your friend is online.
 
 ---
 
-- ## <ins>xSardine & Minigamer42's Song Count / Guess Rate</ins>
+- ## <ins>Minigamer42's Song Count / Guess Rate</ins>
 
 It will display the number of time a song have appeared and your guess rate on it in the song info box.
 
-There are two versions of this script, each with it's advantages and inconvenient, make sure to read the description in the link below to make your choice.
-
-[More Info](https://github.com/xSardine/AMQ-Stuff/tree/main/songCountGuessRate#song-count--guess-rate)
+[Download](https://github.com/Minigamer42/scripts/raw/master/src/amq%20song%20history%20(with%20localStorage).user.js) |
+[Source Code](https://github.com/Minigamer42/scripts/blob/master/src/amq%20song%20history%20(with%20localStorage).user.js)
 
 ---
 

@@ -15,17 +15,7 @@ Youtube Guide Video: <https://www.youtube.com/watch?v=JL85rOIb3FA>
 
 ---
 
-- ## <ins>Joseph's Song List UI</ins>
-
-Adds a window which lists all of the songs that play during a quiz in real time (each song added during answer reveal phase). This window can be opened by pressing the "Song List" icon at the top right of the quiz screen or by pressing the Pause/Break key on the keyboard.
-
-[More Info](https://github.com/TheJoseph98/AMQ-Scripts#song-list-ui-amqsonglistuiuserjs) |
-[Download](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqSongListUI.user.js) |
-[Source Code](https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqSongListUI.user.js)
-
----
-
-- ## <ins>kempanator's Improved Chat</ins>
+- ## <ins>Kempanator's Improved Chat</ins>
 
 Add new features to chat and direct messages <https://i.imgur.com/FAT78Ep.png>.
 

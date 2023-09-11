@@ -4,6 +4,18 @@ Scripts that will let you play some new game modes alone or with your friends
 
 ---
 
+- ## <ins>Kempanator Artist/Composer games</ins>
+
+A tool that let you play games with only specific artists and composers.  
+Be aware that this script search function can not be used during ranked time.  
+Make sure to save your favorite song lists to be able to play them during ranked time.
+
+[More Info](https://github.com/kempanator/amq-scripts#amq-custom-song-list-game) |
+[Download](https://github.com/kempanator/amq-scripts/raw/main/amqCustomSongListGame.user.js) |
+[Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqCustomSongListGame.user.js)
+
+---
+
 - ## <ins>Juvian's No Dropdown</ins>
 
 Disables dropdown for that extra taste of rage. Use ctrl + b to enable/disable dropdown. Useful when you join "No DD" lobbies !

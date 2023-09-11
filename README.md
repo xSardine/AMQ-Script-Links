@@ -23,14 +23,15 @@ The tab must be refresh for new script to be accounted.
 You can also directly browse the repositories of the main contributors in the community:
 
 - [Elodie's userstyle](https://userstyles.world/user/melodyelodie)
-- [Zolhungaj/Juvian/etc...](https://github.com/amq-script-project/AMQ-Scripts)
-- [TheJoseph98](https://github.com/TheJoseph98/AMQ-Scripts)
+- [kempanator](https://github.com/kempanator/amq-scripts)
+- [Miyuki](https://github.com/Mxyuki/AMQ-Scripts)
 - [Nyamu](https://github.com/nyamu-amq/amq_scripts)
+- [TheJoseph98](https://github.com/TheJoseph98/AMQ-Scripts)
+- [Zolhungaj/Juvian/etc...](https://github.com/amq-script-project/AMQ-Scripts)
 - [Metakino](https://github.com/Metakino/AMQ-MetakinoScript)
 - [blissfulyoshi](https://github.com/blissfulyoshi/AMQ-UI-Rearranger)
-- [Miyuki](https://github.com/Mxyuki/AMQ-Scripts)
 - [4Lajf](https://github.com/4Lajf/amq-scripts)
-- [kempanator](https://github.com/kempanator/amq-scripts)
+- [Minigamer42](https://github.com/Minigamer42/scripts/tree/master/src)
 - [xSardine](https://github.com/xSardine/AMQ-Stuff)
 
 # Contribute
