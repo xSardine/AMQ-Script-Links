@@ -115,6 +115,16 @@ Enable Hotkeys to perform various actions.
 
 ---
 
+- ## <ins>43D's Audio Universal</ins>
+
+Add personalized audio notifications for each action in AMQ. By default Genshin's HuTao sounds are saved since it is based on Miyuki's HuTao script.
+
+[More Info](https://github.com/43D/amqVoiceUniversal#amq-voice-universal) |
+[Download](https://github.com/43D/amqVoiceUniversal/raw/main/amqVoiceUniversal.user.js) |
+[Source Code](https://github.com/43D/amqVoiceUniversal/blob/main/amqVoiceUniversal.user.js)
+
+---
+
 - ## <ins>Nyamu's Mouse Wheel Volume Controller</ins>
 
 You can adjust volume with mouse wheel when mouse cursor is over video area or avatar area.
