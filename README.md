@@ -26,7 +26,7 @@ You can also directly browse the repositories of the main contributors in the co
 - [kempanator](https://github.com/kempanator/amq-scripts)
 - [Miyuki](https://github.com/Mxyuki/AMQ-Scripts)
 - [Nyamu](https://github.com/nyamu-amq/amq_scripts)
-- [TheJoseph98](https://github.com/TheJoseph98/AMQ-Scripts)
+- [TheJoseph98](https://github.com/joske2865/AMQ-Scripts)
 - [Zolhungaj/Juvian/etc...](https://github.com/amq-script-project/AMQ-Scripts)
 - [Metakino](https://github.com/Metakino/AMQ-MetakinoScript)
 - [blissfulyoshi](https://github.com/blissfulyoshi/AMQ-UI-Rearranger)

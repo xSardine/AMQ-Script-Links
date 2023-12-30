@@ -4,7 +4,7 @@ Add new visual features, new information that isn't available in vanilla AMQ.
 
 ---
 
-- ## <ins>Kempanator's Improved Chat</ins>
+- ## <ins>Kempanator's Chat Plus</ins>
 
 Add new features to chat and direct messages <https://i.imgur.com/FAT78Ep.png>.
 
@@ -30,9 +30,9 @@ Features:
 
 Counts how many times each person's list has appeared during a quiz.
 
-[More Info](https://github.com/TheJoseph98/AMQ-Scripts#rig-tracker-amqrigtrackeruserjs) |
-[Download](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqRigTracker.user.js) |
-[Source Code](https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqRigTracker.user.js)
+[More Info](https://github.com/joske2865/AMQ-Scripts#rig-tracker-amqrigtrackeruserjs) |
+[Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqRigTracker.user.js) |
+[Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqRigTracker.user.js)
 
 ---
 
@@ -52,15 +52,6 @@ Allow you to add favorite friends, which will be appear at the top of the friend
 [More Info](https://github.com/Mxyuki/AMQ-Scripts#amq-favorite-friends) |
 [Download](https://github.com/Mxyuki/AMQ-Scripts/raw/main/amqFavoriteFriends.user.js) |
 [Source Code](https://github.com/Mxyuki/AMQ-Scripts/blob/main/amqFavoriteFriends.user.js)
-
----
-
-- ## <ins>Zol's Ping Pong</ins>
-
-Shows ping together with online player count.
-
-[Download](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqShowPingPong.user.js) |
-[Source Code](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqShowPingPong.user.js)
 
 ---
 
@@ -132,9 +123,9 @@ Shows the number of avatar you own in the avatar screen.
 
 Adds timestamps to messages (and system messages) in chat in HH:MM format, based on user's local system time.
 
-[More Info](https://github.com/TheJoseph98/AMQ-Scripts#chat-timestamps-amqchattimestampsuserjs) |
-[Download](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqChatTimestamps.user.js) |
-[Source Code](https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqChatTimestamps.user.js)
+[More Info](https://github.com/joske2865/AMQ-Scripts#chat-timestamps-amqchattimestampsuserjs) |
+[Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqChatTimestamps.user.js) |
+[Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqChatTimestamps.user.js)
 
 ---
 

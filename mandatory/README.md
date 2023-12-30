@@ -41,9 +41,9 @@ Features:
 
 Counts how many times each person's list has appeared during a quiz.
 
-[More Info](https://github.com/TheJoseph98/AMQ-Scripts#rig-tracker-amqrigtrackeruserjs) |
-[Download](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqRigTracker.user.js) |
-[Source Code](https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqRigTracker.user.js)
+[More Info](https://github.com/joske2865/AMQ-Scripts#rig-tracker-amqrigtrackeruserjs) |
+[Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqRigTracker.user.js) |
+[Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqRigTracker.user.js)
 
 ---
 
@@ -85,7 +85,7 @@ Allow you to add favorite friends, which will be appear at the top of the friend
 
 ---
 
-- ## <ins>Kempanator Mega Command</ins>
+- ## <ins>Kempanator's Mega Commands</ins>
 
 A compilation of various commands to perform various actions.  
 It let you have a bunch of functionalities gathered in one script.  

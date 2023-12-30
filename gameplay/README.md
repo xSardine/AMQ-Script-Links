@@ -19,13 +19,12 @@ Makes Expand Library more ugly and efficient. It is unusable for big lists witho
 
 ---
 
-- ## <ins>Metakino's List Loading</ins>
+- ## <ins>Kempanator's Quick Load Lists</ins>
 
 Allow you to save different lists and load them quicker.
 
-[More Info](https://github.com/Metakino/AMQ-MetakinoScript#ver-12---stable-no-bug-reported-yet) |
-[Download](https://github.com/Metakino/AMQ-MetakinoScript/raw/master/AMQ%20List%20Saving%20%26%20Quick%20Load.user.js) |
-[Source Code](https://github.com/Metakino/AMQ-MetakinoScript/blob/master/AMQ%20List%20Saving%20%26%20Quick%20Load.user.js)
+[Download](https://github.com/kempanator/amq-scripts/raw/main/amqQuickLoadLists.user.js) |
+[Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqQuickLoadLists.user.js)
 
 ---
 
@@ -52,9 +51,9 @@ Faster and better autocomplete. Test it to see if it fit your taste!
 
 A simple script that allows you to search the Expand Library by ANN ID in addition to searching by anime, song or artist.
 
-[More Info](https://github.com/TheJoseph98/AMQ-Scripts#expand-library-search-by-ann-id-amqsearchexpandanniduserjs) |
-[Download](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqExpandSearchANNID.user.js) |
-[Source Code](https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqExpandSearchANNID.user.js)
+[More Info](https://github.com/joske2865/AMQ-Scripts#expand-library-search-by-ann-id-amqsearchexpandanniduserjs) |
+[Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqExpandSearchANNID.user.js) |
+[Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqExpandSearchANNID.user.js)
 
 ---
 
@@ -78,9 +77,9 @@ These scripts will add new functionalities to AMQ, such as hotkey to perform act
 
 A counting tool which counts how many songs there are on any given difficulty. Can be customized to count any difficulty range and any song type.
 
-[More Info](https://github.com/TheJoseph98/AMQ-Scripts#song-difficulty-counter-amqsongdifficultycounteruserjs) |
-[Download](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqSongDifficultyCounter.user.js) |
-[Source Code](https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqSongDifficultyCounter.user.js)
+[More Info](https://github.com/joske2865/AMQ-Scripts#song-difficulty-counter-amqsongdifficultycounteruserjs) |
+[Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqSongDifficultyCounter.user.js) |
+[Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqSongDifficultyCounter.user.js)
 
 ---
 
@@ -144,21 +143,12 @@ Some random quality of life improvement.
 
 ---
 
-- ## <ins>Zol's Invite URL</ins>
-
-Let's you send a link to your friends to join a room if they also have this script
-
-[Download](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqInviteURL.user.js) |
-[Source Code](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqInviteURL.user.js)
-
----
-
-- ## <ins>Zol|Nyamu|Ensorcell's Sound Effects</ins>
+- ## <ins>Kempanator's Notification Sounds</ins>
 
 Add audio cues for various AMQ events such as DMs received.
 
-[Download](https://github.com/Zolhungaj/amq-scripts/raw/master/notificationSounds.user.js) |
-[Source Code](https://github.com/Zolhungaj/amq-scripts/blob/master/notificationSounds.user.js)
+[Download](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqNotificationSounds.user.js) |
+[Source Code](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqNotificationSounds.user.js)
 
 ---
 
@@ -166,9 +156,9 @@ Add audio cues for various AMQ events such as DMs received.
 
 A tool that counts how much XP, notes and tickets you gained and calculates how much you gain of each per hour.
 
-[More Info](https://github.com/TheJoseph98/AMQ-Scripts#rewards-tracker-amqrewardstrackeruserjs) |
-[Download](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqRewardsTracker.user.js) |
-[Source Code](https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqRewardsTracker.user.js)
+[More Info](https://github.com/joske2865/AMQ-Scripts#rewards-tracker-amqrewardstrackeruserjs) |
+[Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqRewardsTracker.user.js) |
+[Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqRewardsTracker.user.js)
 
 ---
 

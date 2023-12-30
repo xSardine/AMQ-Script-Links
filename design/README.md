@@ -50,9 +50,9 @@ Change the Play Button in the main menu by having directly the 3 options appeari
 
 A script that replaces the chat in Solo rooms with an image. It's completely useless anyways.
 
-[More Info](https://github.com/TheJoseph98/AMQ-Scripts#solo-chat-block-amqsolochatblockuserjs) |
-[Download](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqSoloChatBlock.user.js) |
-[Source Code](https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqSoloChatBlock.user.js)
+[More Info](https://github.com/joske2865/AMQ-Scripts#solo-chat-block-amqsolochatblockuserjs) |
+[Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqSoloChatBlock.user.js) |
+[Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqSoloChatBlock.user.js)
 
 ---
 
@@ -60,9 +60,9 @@ A script that replaces the chat in Solo rooms with an image. It's completely use
 
 A script that moves the "View All Settings" button in the Roombrowser to the top of the displayed Room tiles.
 
-[More Info](https://github.com/TheJoseph98/AMQ-Scripts#amq-room-browser-placement-amqroombrowserfixuserjs) |
-[Download](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqRoomBrowserFix.user.js) |
-[Source Code](https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqRoomBrowserFix.user.js)
+[More Info](https://github.com/joske2865/AMQ-Scripts#amq-room-browser-placement-amqroombrowserfixuserjs) |
+[Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqRoomBrowserFix.user.js) |
+[Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqRoomBrowserFix.user.js)
 
 ---
 
