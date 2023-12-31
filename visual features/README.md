@@ -26,16 +26,6 @@ Features:
 
 ---
 
-- ## <ins>Joseph's Rig Tracker<ins>
-
-Counts how many times each person's list has appeared during a quiz.
-
-[More Info](https://github.com/joske2865/AMQ-Scripts#rig-tracker-amqrigtrackeruserjs) |
-[Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqRigTracker.user.js) |
-[Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqRigTracker.user.js)
-
----
-
 - ## <ins>Zol's Answer Time Display</ins>
 
 Makes you able to see how quickly people answered.

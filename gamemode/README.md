@@ -38,7 +38,6 @@ A song artist mode which allow you to answer the song name and the artist in add
 - ## <ins>Kempanator's Mega Commands</ins>
 
 A compilation of various commands to perform various actions.  
-It let you have a bunch of functionalities gathered in one script.  
 I invite you to check within the source code to see all the functionalities. It is documented at the beginning of the script.
 
 [Download](https://github.com/nyamu-amq/amq_scripts/raw/master/amqChatCommands.user.js) |

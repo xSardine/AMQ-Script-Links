@@ -37,16 +37,6 @@ Features:
 
 ---
 
-- ## <ins>Joseph's Rig Tracker<ins>
-
-Counts how many times each person's list has appeared during a quiz.
-
-[More Info](https://github.com/joske2865/AMQ-Scripts#rig-tracker-amqrigtrackeruserjs) |
-[Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqRigTracker.user.js) |
-[Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqRigTracker.user.js)
-
----
-
 - ## <ins>Juvian's Expand Library</ins>
 
 Makes Expand Library more ugly and efficient. It is unusable for big lists without this script.
@@ -72,16 +62,6 @@ Makes you able to see how quickly people answered.
 
 [Download](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqPlayerAnswerTimeDisplay.user.js) |
 [Source Code](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqPlayerAnswerTimeDisplay.user.js)
-
----
-
-- ## <ins>Miyuki's Favorite Friend</ins>
-
-Allow you to add favorite friends, which will be appear at the top of the friend list, and allow you to activate notification for when they log in/out. To add or remove a friend from Favorite you just need to click the gear button at the bottom right and then click the Favorite button.
-
-[More Info](https://github.com/Mxyuki/AMQ-Scripts#amq-favorite-friends) |
-[Download](https://github.com/Mxyuki/AMQ-Scripts/raw/main/amqFavoriteFriends.user.js) |
-[Source Code](https://github.com/Mxyuki/AMQ-Scripts/blob/main/amqFavoriteFriends.user.js)
 
 ---
 
