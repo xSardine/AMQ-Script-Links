@@ -15,7 +15,7 @@ Youtube Guide Video: <https://www.youtube.com/watch?v=JL85rOIb3FA>
 
 ---
 
-- ## <ins>Kempanator's Improved Chat</ins>
+- ## <ins>Kempanator's Chat Plus</ins>
 
 Add new features to chat and direct messages <https://i.imgur.com/FAT78Ep.png>.
 
@@ -41,9 +41,9 @@ Features:
 
 Counts how many times each person's list has appeared during a quiz.
 
-[More Info](https://github.com/TheJoseph98/AMQ-Scripts#rig-tracker-amqrigtrackeruserjs) |
-[Download](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqRigTracker.user.js) |
-[Source Code](https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqRigTracker.user.js)
+[More Info](https://github.com/joske2865/AMQ-Scripts#rig-tracker-amqrigtrackeruserjs) |
+[Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqRigTracker.user.js) |
+[Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqRigTracker.user.js)
 
 ---
 
@@ -85,7 +85,7 @@ Allow you to add favorite friends, which will be appear at the top of the friend
 
 ---
 
-- ## <ins>Kempanator Mega Command</ins>
+- ## <ins>Kempanator's Mega Commands</ins>
 
 A compilation of various commands to perform various actions.  
 It let you have a bunch of functionalities gathered in one script.  
@@ -93,25 +93,3 @@ I invite you to check within the source code to see all the functionalities. It 
 
 [Download](https://github.com/nyamu-amq/amq_scripts/raw/master/amqChatCommands.user.js) |
 [Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqMegaCommands.user.js)
-
----
-
-- ## <ins>Kempanator's Improved Chat</ins>
-
-Add new features to chat and direct messages <https://i.imgur.com/FAT78Ep.png>.
-
-Make sure to update Elodie's script, and remove any scripts that have similar functionality to the ones included in this script (mainly Miyuki's chat scripts, which fused with this, and Sardine Bigger DM & Timestamp, etc...).
-
-Features:
-
-- Adjustable DM width and height
-- Add color to usernames in dms and nexus
-- Add timestamps to chat, dms, and nexus
-- Move level, ticket, and note count to the right
-- Load images/audio/video directly in chat
-- Add a gif search window in chat using tenor
-- Drag & drop or copy & paste file into chat/dm to automatically upload to litterbox
-
-[More Info](https://github.com/kempanator/amq-scripts#amq-chat-plus) |
-[Download](https://github.com/kempanator/amq-scripts/raw/main/amqChatPlus.user.js) |
-[Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqChatPlus.user.js)

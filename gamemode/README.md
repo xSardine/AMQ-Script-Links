@@ -4,7 +4,7 @@ Scripts that will let you play some new game modes alone or with your friends
 
 ---
 
-- ## <ins>Kempanator Artist/Composer games</ins>
+- ## <ins>Kempanator's Custom Song List Game</ins>
 
 A tool that let you play games with only specific artists and composers.  
 Be aware that this script search function can not be used during ranked time.  
@@ -35,7 +35,7 @@ A song artist mode which allow you to answer the song name and the artist in add
 
 ---
 
-- ## <ins>Kempanator Mega Command</ins>
+- ## <ins>Kempanator's Mega Commands</ins>
 
 A compilation of various commands to perform various actions.  
 It let you have a bunch of functionalities gathered in one script.  
@@ -79,8 +79,8 @@ On answer results, it will display into the chat how fast you muted yourself to 
 
 If you smh want to speedrun AMQ, this will help you by tracking guess times for each song, including total and average times.
 
-[More Info](https://github.com/TheJoseph98/AMQ-Scripts#speedrun-amqspeedrunuserjs) |
-[Download](https://github.com/TheJoseph98/AMQ-Scripts/raw/master/amqSpeedrun.user.js) |
-[Source Code](https://github.com/TheJoseph98/AMQ-Scripts/blob/master/amqSpeedrun.user.js)
+[More Info](https://github.com/joske2865/AMQ-Scripts#speedrun-amqspeedrunuserjs) |
+[Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqSpeedrun.user.js) |
+[Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqSpeedrun.user.js)
 
 ---
