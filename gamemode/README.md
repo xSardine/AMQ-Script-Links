@@ -1,3 +1,4 @@
+
 # **Gamemode**
 
 Scripts that will let you play some new game modes alone or with your friends
@@ -81,5 +82,16 @@ If you smh want to speedrun AMQ, this will help you by tracking guess times for 
 [More Info](https://github.com/joske2865/AMQ-Scripts#speedrun-amqspeedrunuserjs) |
 [Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqSpeedrun.user.js) |
 [Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqSpeedrun.user.js)
+
+---
+
+
+- ## <ins>4Lajf's Buzzer Gamemode</ins>
+
+ Bob's Buzzer script but gameified. Every milisecond while the buzzer is not muted will add to your score. Person with the lowest score wins. Bascially a reaction speed contest instead of speed typing / shortcut memorization like quickdraw.
+
+[More Info](https://github.com/4Lajf/amq-scripts/tree/main) |
+[Download](https://github.com/4Lajf/amq-scripts/raw/main/amqBuzzerGamemode.user.js) |
+[Source Code](https://github.com/4Lajf/amq-scripts/blob/main/amqBuzzerGamemode.user.js)
 
 ---
