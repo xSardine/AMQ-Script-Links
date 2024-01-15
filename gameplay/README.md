@@ -171,3 +171,13 @@ Makes you able to see the difference in time to the fastest player. Also include
 [Source Code](https://github.com/4Lajf/amq-scripts/blob/main/amqAnswerTimeDiference.user.js)
 
 ---
+
+- ## <ins>4Lajf's AMQ Tiebreak Points</ins>
+
+Awards additional "style points" (on the right side of your score in leaderboard) if you are the fastest one to get the answer right.
+
+[More Info](https://github.com/4Lajf/amq-scripts) |
+[Download](https://github.com/4Lajf/amq-scripts/raw/main/amqTiebreakPoints.user.js) |
+[Source Code](https://github.com/4Lajf/amq-scripts/blob/main/amqTiebreakPoints.user.js)
+
+---
