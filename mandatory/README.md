@@ -71,5 +71,5 @@ A compilation of various commands to perform various actions.
 It let you have a bunch of functionalities gathered in one script.  
 I invite you to check within the source code to see all the functionalities. It is documented at the beginning of the script.
 
-[Download](https://github.com/nyamu-amq/amq_scripts/raw/master/amqChatCommands.user.js) |
+[Download](https://github.com/kempanator/amq-scripts/raw/main/amqMegaCommands.user.js) |
 [Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqMegaCommands.user.js)
