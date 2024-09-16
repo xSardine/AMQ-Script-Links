@@ -163,13 +163,15 @@ It will display the number of time a song have appeared and your guess rate on i
 
 ---
 
-- ## <ins>Tutti's Shortest Possible Answer</ins>
+- ## <ins>Einlar's Vivace Shortcut</ins>
 
-This will display in the song info box, at the end of each song, shorthands that would be the less amount of key stroke while having the right answer first in the dropdown.
+This will list optimal dropdown shortcuts after guessing phase. They are computed on the fly, so they will always be updated.
 
-[More Info](https://github.com/tutti-amq/amq-scripts#amq-scripts) |
-[Download](https://github.com/tutti-amq/amq-scripts/raw/main/animeShortcuts.user.js) |
-[Source Code](https://github.com/tutti-amq/amq-scripts/blob/main/animeShortcuts.user.js)
+This is an adaptation of the now defunct [script by Tutti](https://github.com/tutti-amq/amq-scripts/blob/main/animeShortcuts.user.js)
+
+[More Info](https://github.com/Einlar/AMQScripts/tree/main?tab=readme-ov-file#vivace-shortcuts---install) |
+[Download](https://github.com/Einlar/AMQScripts/raw/main/amqVivaceShortcuts.user.js) |
+[Source Code](https://github.com/Einlar/AMQScripts/blob/main/amqVivaceShortcuts.user.js)
 
 ---
 

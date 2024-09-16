@@ -37,15 +37,6 @@ Features:
 
 ---
 
-- ## <ins>Juvian's Expand Library</ins>
-
-Makes Expand Library more ugly and efficient. It is unusable for big lists without this script.
-
-[Download](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqExpandLibrary.user.js) |
-[Source Code](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqExpandLibrary.user.js)
-
----
-
 - ## <ins>Nyamu's Colorful AMQ</ins>
 
 Apply different coloring to some stuff to highlight them, such as friends in the lobby.

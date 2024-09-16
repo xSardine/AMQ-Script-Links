@@ -10,15 +10,6 @@ These scripts will modify and improve how certain aspect of the game works.
 
 ---
 
-- ## <ins>Juvian's Expand Library</ins>
-
-Makes Expand Library more ugly and efficient. It is unusable for big lists without this script.
-
-[Download](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqExpandLibrary.user.js) |
-[Source Code](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqExpandLibrary.user.js)
-
----
-
 - ## <ins>Kempanator's Quick Load Lists</ins>
 
 Allow you to save different lists and load them quicker.
@@ -28,32 +19,12 @@ Allow you to save different lists and load them quicker.
 
 ---
 
-- ## <ins>Nyamu's Expand Library Auto Play</ins>
-
-Improve Expand Library: Plays the song automatically when you select it in expand library and the resolution you selected will be kept when you select another song
-
-[More Info](https://github.com/nyamu-amq/amq_scripts#amqexpandlibraryautoplayuserjs) |
-[Download](https://github.com/nyamu-amq/amq_scripts/raw/master/amqExpandLibraryAutoplay.user.js) |
-[Source Code](https://github.com/nyamu-amq/amq_scripts/blob/master/amqExpandLibraryAutoplay.user.js)
-
----
-
 - ## <ins>Juvian's Autocomplete</ins>
 
 Faster and better autocomplete. Test it to see if it fit your taste!
 
 [Download](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqAutocomplete.user.js) |
 [Source Code](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqAutocomplete.user.js)
-
----
-
-- ## <ins>Joseph's Expand ANNID Search</ins>
-
-A simple script that allows you to search the Expand Library by ANN ID in addition to searching by anime, song or artist.
-
-[More Info](https://github.com/joske2865/AMQ-Scripts#expand-library-search-by-ann-id-amqsearchexpandanniduserjs) |
-[Download](https://github.com/joske2865/AMQ-Scripts/raw/master/amqExpandSearchANNID.user.js) |
-[Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqExpandSearchANNID.user.js)
 
 ---
 

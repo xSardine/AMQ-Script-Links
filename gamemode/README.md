@@ -16,6 +16,19 @@ Make sure to save your favorite song lists to be able to play them during ranked
 
 ---
 
+- ## <ins>4Lajf's Training Mode</ins>
+
+This script is a superset of Kempanator's Custom Song List Game. Make sure to only have either Training Mode or Custom Song List activated at a time.
+
+It will function like Anki, meaning that it will apply a weighted system to the songs you know less to make you learn them better and play them more often.
+
+[More Info](https://github.com/4Lajf/amq-scripts#amqtrainingmodeuserjs-wip) |
+[Download](https://github.com/4Lajf/amq-scripts/raw/main/amqTrainingMode.user.js) |
+[Source Code](https://github.com/4Lajf/amq-scripts/blob/main/amqTrainingMode.user.js)
+
+
+---
+
 - ## <ins>Juvian's No Dropdown</ins>
 
 Disables dropdown for that extra taste of rage. Use ctrl + b to enable/disable dropdown. Useful when you join "No DD" lobbies !
@@ -45,25 +58,6 @@ I invite you to check within the source code to see all the functionalities. It 
 
 ---
 
-- ## <ins>Hachiman's Mute Audio Gamemode</ins>
-
-Mute your game automatically after a certain amount of time.
-For example let you play a game with 10 seconds guess time, but only 1s of audio.
-
-To start it and configure it, write in chat: `/muteconfig`
-
-- inputs:
-  - duration: duration for which you will have sound
-  - delay: sound start with this delay
-- options:
-  - random: sample starts in any second except last 4s
-  - on: turn on/off the script
-
-[Download](https://github.com/Hachiman215/AMQ-scripts/raw/main/amqMuteConfigUI.user.js) |
-[Source Code](https://github.com/Hachiman215/AMQ-scripts/blob/main/amqMuteConfigUI.user.js)
-
----
-
 - ## <ins>Bob's Buzzer</ins>
 
 Mute yourself once you recognized the song, and then type the answer at your pace in the dropdown.
@@ -71,6 +65,16 @@ Mute yourself once you recognized the song, and then type the answer at your pac
 On answer results, it will display into the chat how fast you muted yourself to you and other people in the lobby !
 
 [Source Code](https://files.catbox.moe/lipeqk.js)
+
+---
+
+- ## <ins>Einlar's Hot Potato Gamemode</ins>
+
+A collection of utilities for the [hot potato custom gamemode](https://pastebin.com/qdr4g6Jp).
+
+[More Info](https://github.com/Einlar/AMQScripts/tree/main?tab=readme-ov-file#hot-potato-gamemode---install) |
+[Download](https://github.com/Einlar/AMQScripts/blob/main/hotPotato.user.js) |
+[Source Code](https://github.com/Einlar/AMQScripts/blob/main/hotPotato.user.js)
 
 ---
 
@@ -83,3 +87,4 @@ If you smh want to speedrun AMQ, this will help you by tracking guess times for 
 [Source Code](https://github.com/joske2865/AMQ-Scripts/blob/master/amqSpeedrun.user.js)
 
 ---
+

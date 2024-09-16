@@ -32,6 +32,7 @@ You can also directly browse the repositories of the main contributors in the co
 - [blissfulyoshi](https://github.com/blissfulyoshi/AMQ-UI-Rearranger)
 - [4Lajf](https://github.com/4Lajf/amq-scripts)
 - [Minigamer42](https://github.com/Minigamer42/scripts/tree/master/src)
+- [Einlar](https://github.com/Einlar/AMQScripts)
 - [xSardine](https://github.com/xSardine/AMQ-Stuff)
 
 # Contribute
