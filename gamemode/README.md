@@ -20,7 +20,7 @@ Make sure to save your favorite song lists to be able to play them during ranked
 
 This script is a superset of Kempanator's Custom Song List Game. Make sure to only have either Training Mode or Custom Song List activated at a time.
 
-It will function like Anki, meaning that it will apply a weighted system to the songs you know less to make you learn them better and play them more often.
+It will function like Anki, meaning that it will apply a weighted system to the songs so that the songs you know less will appear more often.
 
 [More Info](https://github.com/4Lajf/amq-scripts#amqtrainingmodeuserjs-wip) |
 [Download](https://github.com/4Lajf/amq-scripts/raw/main/amqTrainingMode.user.js) |
