@@ -54,11 +54,10 @@ A counting tool which counts how many songs there are on any given difficulty. C
 
 ---
 
-- ## <ins>Kempanator Mega Command</ins>
+- ## <ins>Kempanator's Mega Command</ins>
 
-A compilation of various commands to perform various actions.  
-It let you have a bunch of functionalities gathered in one script.  
-I invite you to check within the source code to see all the functionalities. It is documented at the beginning of the script.
+A large compilation of commands for basic game functions, automation, and quality of life improvements.
+See top of script for command documentation.
 
 [Download](https://github.com/nyamu-amq/amq_scripts/raw/master/amqChatCommands.user.js) |
 [Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqMegaCommands.user.js)
@@ -118,8 +117,8 @@ Some random quality of life improvement.
 
 Add audio cues for various AMQ events such as DMs received.
 
-[Download](https://github.com/amq-script-project/AMQ-Scripts/raw/master/gameplay/amqNotificationSounds.user.js) |
-[Source Code](https://github.com/amq-script-project/AMQ-Scripts/blob/master/gameplay/amqNotificationSounds.user.js)
+[Download](https://github.com/kempanator/amq-scripts/raw/main/amqNotificationSounds.user.js) |
+[Source Code](https://github.com/kempanator/amq-scripts/blob/main/amqNotificationSounds.user.js)
 
 ---
 
