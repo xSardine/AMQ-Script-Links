@@ -68,9 +68,10 @@ Features:
 
 ---
 
-- ## <ins>Kempanator's New Nexus Game Mode UI</ins>
+- ## <ins>Kempanator's New Game Mode UI</ins>
 
-Adds a user interface to new game mode in Nexus to keep track of guesses <https://i.imgur.com/q9GTFQr.png>
+Adds a user interface to new game mode to keep track of guesses <https://i.imgur.com/xbbdu7H.png>
+New game mode rules: <https://pastebin.com/TAyYVsii>
 
 [More Info](https://github.com/kempanator/amq-scripts#amq-new-game-mode-ui) |
 [Download](https://github.com/kempanator/amq-scripts/raw/main/amqNewGameModeUI.user.js) |
